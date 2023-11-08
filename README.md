@@ -1,2 +1,2 @@
 # psACL
-Module for interacting with Access Control Lists in PowerShell
+PowerShell Module to control Access Control Lists in Windows without having to use ICACLs.
